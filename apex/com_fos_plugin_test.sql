@@ -108,7 +108,7 @@ wwv_flow_api.create_plugin(
 '<h2>This is finish, but not the end</h2>',
 '<ul>',
 '<li>one</li>',
-'<li><two/li>',
+'<li>two</li>',
 '<li>three</li>',
 '</ul>',
 '<p>',
