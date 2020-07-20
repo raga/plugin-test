@@ -1,0 +1,50 @@
+{
+    "name":"just a plug-in test"
+   ,"version":"1.0"
+   ,"description":"\u003Ch1\u003EThis is just a test, please don\u0027t \u003Cstrong\u003Eapprove\u003C\/strong\u003E\u003C\/h1\u003E\r\n\u003Cp\u003E\r\nThis is a wonderful plugin doing absolutely nothing! You would be surprised to learn how little effort it takes to do nothing at all.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \u003Cbr \/\u003E\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\r\n\u003C\/p\u003E\r\n\u003Ch2\u003EThis is finish, but not the end\u003C\/h2\u003E\r\n\u003Cul\u003E\r\n\u003Cli\u003Eone\u003C\/li\u003E\r\n\u003Cli\u003E\u003Ctwo\/li\u003E\r\n\u003Cli\u003Ethree\u003C\/li\u003E\r\n\u003C\/ul\u003E\r\n\u003Cp\u003E\r\n   you can learn more about plugins at \u003Ca href=\"https:\/\/www.foex.at\" target=\"_blank\"\u003Efoex.at\u003C\/a\u003E\r\n\u003C\/p\u003E"
+   ,"keywords":[
+        "just"
+       ,"a"
+       ,"test"
+    ]
+   ,"license":"MIT"
+   ,"commercial":"Yes"
+   ,"homepage":"https:\/\/foex.at\/fos"
+   ,"bugs":{
+        "url":"https:\/\/github.com\/foex-open-source\/plugin-test\/issues"
+       ,"email":"support@fos.world"
+    }
+   ,"author":{
+        "name":"FOEX GmbH"
+       ,"email":"office@fos.world"
+       ,"url":"https:\/\/fos.world\/"
+       ,"twitter":"@foexopensource"
+    }
+   ,"repository":{
+        "type":"git"
+       ,"url":"https:\/\/github.com\/foex-open-source\/plugin-test.git"
+    }
+   ,"oracle":{
+        "versions":[
+            "11.2.0.4"
+           ,"12.1.0.1"
+           ,"12.2.0.1"
+           ,"18.0.0.0"
+           ,"19.0.0.0"
+        ]
+       ,"apex":{
+            "versions":[
+                "19.2.0"
+               ,"20.1.0"
+            ]
+           ,"plugin":{
+                "internalName":"COM.FOS.PLUGIN_TEST"
+               ,"type":"item"
+               ,"demo":"https:\/\/fos.world\/ords\/f?p=1000:"
+               ,"previewImage":"https:\/\/fos.world\/ords\/fos_master_ws\/fos-image\/COM.FOS.PLUGIN_TEST"
+            }
+        }
+    }
+}
+
+
